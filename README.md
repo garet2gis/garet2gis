@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there, my name is Dannil
 
-<!--
-**garet2gis/garet2gis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a beginner frontend web developer
 
-Here are some ideas to get you started:
+### Languages and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=5ed6f7)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=764abc)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=efd81d)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=28a4d8)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=e96228)
+
+### Contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=29a9ea)](https://t.me/mukovsky)
