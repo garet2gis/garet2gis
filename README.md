@@ -1,4 +1,4 @@
-### Hello there 👋, my name is Dannil 
+### Hello there 👋, my name is Daniil 
 
 ## I am a beginner frontend web developer
 
