@@ -1,6 +1,6 @@
-### Hello there 👋, my name is Daniil 
+### Hello on my github profile, my name is Daniil 
 
-## I am a beginner frontend web developer
+## I am a junior frontend web developer
 
 ### Languages and tools
 
