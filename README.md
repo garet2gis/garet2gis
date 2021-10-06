@@ -5,13 +5,12 @@
 ### Languages and tools
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=5ed6f7)
+![MobX](https://img.shields.io/badge/-MobX-black?style=for-the-badge&logo=mobx&logoColor=e86516)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=764abc)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=efd81d)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=1b74ba)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=28a4d8)
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=e96228)
----
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=6aa25c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=109750)
+
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=29a9ea)](https://t.me/mukovsky)
 ---
