@@ -4,11 +4,9 @@
 
 ### These are my main languages and tools 👇
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=5ed6f7)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=016f9f)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=0d988a)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=5ed6f7)
-![MobX](https://img.shields.io/badge/-MobX-black?style=for-the-badge&logo=mobx&logoColor=e86516)
-![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=764abc)
 
 ---
 
