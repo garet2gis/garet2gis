@@ -1,6 +1,6 @@
 ## Greetings on my github profile!
 
-<!-- [![hits](https://hits.deltapapa.io/github/garet2gis/garet2gis.svg)](https://hits.deltapapa.io) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garet2gis&label=Profile%20views&color=0e75b6&style=flat" alt="garet2gis" /> </p>
 
 My name is Daniil and I am a web developer 🧑‍💻
 
